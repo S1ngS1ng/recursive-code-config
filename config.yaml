@@ -20,7 +20,7 @@
 # Example: "Custom" will yield the family "Rec Mono Custom". 
 # Keep under 13 characters in length to avoid potential OS bugs.
 
-Family Name: Tessssting 
+Family Name: Liga
 
 # -----------------------------------------------------------------------------
 # Font Styles
@@ -37,31 +37,31 @@ Family Name: Tessssting
 Fonts:
 
   Regular:
-    MONO: 1
-    CASL: 0
-    wght: 425
+    MONO: 0.80
+    CASL: 1
+    wght: 400
     slnt: 0
-    CRSV: 0
+    CRSV: 1
 
   Italic:
-    MONO: 1
+    MONO: 0.80
     CASL: 1
-    wght: 425
-    slnt: -10
+    wght: 400
+    slnt: -12.5
     CRSV: 1
 
   Bold:
-    MONO: 1
-    CASL: 0
-    wght: 750
+    MONO: 0.80
+    CASL: 1
+    wght: 680
     slnt: 0
-    CRSV: 0
+    CRSV: 1
 
   Bold Italic:
-    MONO: 1
+    MONO: 0.80
     CASL: 1
-    wght: 750
-    slnt: -10
+    wght: 680
+    slnt: -12.5
     CRSV: 1
 
 # -----------------------------------------------------------------------------
